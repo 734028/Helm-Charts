@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myexpressapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-05T14:34:06.728849306Z"
+    description: A Helm chart for myexpressapp
+    digest: 761afa94cf911825a18c6b2b8dd7bb2fa9486dfcb6a8685716ebb6e074229e0a
+    name: myexpressapp
+    type: application
+    urls:
+    - https://github.com/734028/Helm-Charts/releases/download/myexpressapp-0.1.0/myexpressapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-05T14:34:06.728860407Z"
